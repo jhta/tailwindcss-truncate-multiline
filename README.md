@@ -3,13 +3,13 @@
 ## Installation
 
 ```bash
-npm install tailwindcss-truncate-multiline --save-dev
+npm install tailwindcss-truncate-multiline --save
 ```
 
 or
 
 ```bash
-yarn add tailwindcss-truncate-multiline --dev
+yarn add tailwindcss-truncate-multiline 
 ```
 
 

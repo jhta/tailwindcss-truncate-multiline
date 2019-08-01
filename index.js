@@ -18,7 +18,7 @@ const ellipsisPlugin = (variants = []) => ({ addUtilities, config, e }) => {
   if (!keys.length) return;
 
 
-  const utilities = key.map(key => ({
+  const utilities = keys.map(key => ({
     [`.${e(`truncate-${key}-lines`)}`]: {
       'overflow': 'hidden',
       'display': '-webkit-box',
@@ -27,7 +27,7 @@ const ellipsisPlugin = (variants = []) => ({ addUtilities, config, e }) => {
     },
   }))
   
-  addUtilities(utilities);
+  addUtilities(utilities, variants);
 };
   
 module.exports = ellipsisPlugin 
