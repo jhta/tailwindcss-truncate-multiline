@@ -1,6 +1,6 @@
 {
-  "name": "tailwind-truncate-multiline",
-  "version": "0.0.1",
+  "name": "tailwindcss-truncate-multiline",
+  "version": "1.0.1",
   "description": "Tailwind multiline truncate plugin",
   "main": "index.js",
   "scripts": {

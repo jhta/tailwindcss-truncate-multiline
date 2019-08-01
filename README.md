@@ -9,7 +9,7 @@ npm install tailwindcss-truncate-multiline --save-dev
 or
 
 ```bash
-yarn install tailwindcss-truncate-multiline --dev
+yarn add tailwindcss-truncate-multiline --dev
 ```
 
 
