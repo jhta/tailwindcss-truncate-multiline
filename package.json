@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-truncate-multiline",
+  "version": "0.0.1",
+  "description": "Tailwind multiline truncate plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhta/tailwindcss-truncate-multiline"
+  },
+  "homepage": "https://github.com/jhta/tailwindcss-truncate-multiline",
+  "keywords": [
+    "tailiwnd",
+    "plugin",
+    "ellipsis",
+    "plugin"
+  ],
+  "author": "Jeison Higuita <jeisonhs93@gmail.com>",
+  "license": "MIT"
+}
