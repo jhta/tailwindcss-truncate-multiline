@@ -1,4 +1,4 @@
-# Transitions Plugin for Tailwind CSS
+# Truncate Multiline Plugin for Tailwind CSS
 
 ## Installation
 
