@@ -24,7 +24,7 @@ yarn add tailwindcss-truncate-multiline
           lines: {
               3: '3',
               5: '5',
-              8: '8'.
+              8: '8',
           }
       }
     
